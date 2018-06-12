@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="LOGOTIPO.svg">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       id="perspective26" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-75.714286"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       sodipodi:type="inkscape:box3d"
+       id="g28"
+       style="fill:#1a1a1a"
+       inkscape:perspectiveID="#perspective26"
+       inkscape:corner0="3.96063 : 0.098993168 : 0 : 1"
+       inkscape:corner7="-0.26895978 : 0.0028464751 : 0.25 : 1">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path30"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="6"
+         d="m 21.166667,138.52281 v 19.38195 l 9.060005,-0.45123 V 139.0015 Z"
+         points="21.166667,157.90476 30.226672,157.45353 30.226672,139.0015 21.166667,138.52281 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path38"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="13"
+         d="M 21.166667,157.90476 143.63095,212.318 160.54388,196.05516 30.226672,157.45353 Z"
+         points="143.63095,212.318 160.54388,196.05516 30.226672,157.45353 21.166667,157.90476 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path40"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="11"
+         d="M 30.226672,139.0015 160.54388,98.050323 V 196.05516 L 30.226672,157.45353 Z"
+         points="160.54388,98.050323 160.54388,196.05516 30.226672,157.45353 30.226672,139.0015 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path32"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="5"
+         d="M 21.166667,138.52281 143.63095,80.797619 160.54388,98.050323 30.226672,139.0015 Z"
+         points="143.63095,80.797619 160.54388,98.050323 30.226672,139.0015 21.166667,138.52281 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path36"
+         style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="14"
+         d="M 143.63095,80.797619 V 212.318 l 16.91293,-16.26284 V 98.050323 Z"
+         points="143.63095,212.318 160.54388,196.05516 160.54388,98.050323 143.63095,80.797619 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path34"
+         style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="3"
+         d="M 21.166667,138.52281 143.63095,80.797619 V 212.318 L 21.166667,157.90476 Z"
+         points="143.63095,80.797619 143.63095,212.318 21.166667,157.90476 21.166667,138.52281 " />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot56"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:26.25;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion58"><rect
+           id="rect60"
+           width="385.75745"
+           height="102.87395"
+           x="114.24254"
+           y="525.36005" /></flowRegion><flowPara
+         id="flowPara62">L  </flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:30.25;font-family:'Leelawadee UI';-inkscape-font-specification:'Leelawadee UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="59.720242"
+       y="148.83334"
+       id="text66"><tspan
+         sodipodi:role="line"
+         id="tspan64"
+         x="59.720242"
+         y="148.83334"
+         style="line-height:38.25;stroke-width:0.26458332;font-size:19.75555556px">L. M. H. C.</tspan></text>
+    <ellipse
+       style="fill:#cc00ff;stroke-width:0.26458332"
+       id="path68"
+       cx="35.151787"
+       cy="150.48164"
+       rx="13.985119"
+       ry="11.958833" />
+  </g>
+</svg>
